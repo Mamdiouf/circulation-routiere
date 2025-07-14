@@ -10,7 +10,7 @@
 7. [🎮 Contrôles](#-contrôles)
 8. [🏗️ Structure du Code](#️-structure-du-code)
 9. [💡 Pistes d'Amélioration](#-pistes-damélioration)
-10. [👥 Auteurs](#-auteurs)
+10. [👥 Auteur](#-auteur)
 
 ---
 

@@ -7,8 +7,7 @@
 #          en respectant feux, piétons sur passages dédiés, et obstacles.
 #          Les utilisateurs peuvent ajouter/retirer des obstacles sur les routes via clic souris.
 #          La programmation des voitures inclut désormais des mécanismes renforcés pour éviter les blocages permanents.
-# @author Sokhna Oumou DIOUF
-# @author Rym BENOUMECHIARA
+# @author Mamadou DIOUF
 # @date 2025-04-07
 
 import pygame
